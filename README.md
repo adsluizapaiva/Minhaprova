@@ -1,6 +1,6 @@
 # BIG BROTHER BRASIL 🎥 🎥 🎥 🎥 🎥 
 
-Olá, meu nome é Luiza Paiva e este é o repositório da minha prova de Linguagens de Programação. Prova de Linguagens de Programação.
+Olá, meu nome é Luiza Paiva e este é o repositório da minha prova de Linguagens de Programação. 
 
 ## Sobre a Prova
 
